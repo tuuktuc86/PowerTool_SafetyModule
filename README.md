@@ -9,6 +9,7 @@ Developing a safety module to be installed on power tools. It detects the user's
 <br>
 
 # 주요 기능
+
 - 위험 상황 감지
 IMU 센서와 초음파 센서를 활용하여 사용자의 위험 상태를 감지한다. 사용자가 넘어지거나 전동공구가 부자연스러운 동작으로 위치할 경우를 감지한다.
 <br>
