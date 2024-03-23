@@ -21,5 +21,24 @@ IMU 센서와 초음파 센서를 이용하여 사용자의 위험도를 파악�
 향후 IMU Odometry 기술을 사용하여 감지의 정확도와 추정하는 pose의 다양성을 확보한다. 
 
 # 동영상
-
+<figure>
+  <p align="center">
+    <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/video.gif" width = "500">
+  </p>
+</figure>
 # ppt
+<figure>
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/001.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/002.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/003.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/004.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/005.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/006.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/007.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/008.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/009.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/010.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/011.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/012.jp)">
+  <img src="https://github.com/tuuktuc86/PowerTool_SafetyModule/blob/main/images/ppt/014.jp)">
+</figure>
